@@ -1,5 +1,8 @@
 # -6Companies30Days-
 #ReviseWithArsh
+https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1/
+
+
 // C++ program to find the position where
 // last item is delivered.
 #include <bits/stdc++.h>
